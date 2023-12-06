@@ -1,0 +1,314 @@
+Movenumber,Player,Row,Column,Result
+1,X,0,0,Continue
+2,O,1,0,Continue
+3,X,1,1,Continue
+4,O,0,2,Continue
+5,X,2,2,X wins!
+1,X,2,1,Continue
+2,O,1,2,Continue
+3,X,1,1,Continue
+4,O,1,0,Continue
+5,X,0,2,Continue
+6,O,2,0,Continue
+7,X,2,2,Continue
+8,O,0,0,O wins!
+1,X,2,2,Continue
+2,O,1,1,Continue
+3,X,0,1,Continue
+4,O,0,0,Continue
+5,X,2,1,Continue
+6,O,1,2,Continue
+7,X,0,2,Continue
+8,O,1,0,O wins!
+1,X,1,1,Continue
+2,O,2,2,Continue
+3,X,0,1,Continue
+4,O,1,2,Continue
+5,X,0,2,Continue
+6,O,2,1,Continue
+7,X,1,0,Continue
+8,O,2,0,O wins!
+1,X,2,1,Continue
+2,O,0,2,Continue
+3,X,1,1,Continue
+4,O,1,2,Continue
+5,X,0,0,Continue
+6,O,2,2,O wins!
+1,X,2,0,Continue
+2,O,2,1,Continue
+3,X,1,0,Continue
+4,O,0,0,Continue
+5,X,2,2,Continue
+6,O,1,1,Continue
+7,X,0,2,Continue
+8,O,0,1,O wins!
+1,X,0,1,Continue
+2,O,2,0,Continue
+3,X,2,2,Continue
+4,O,2,1,Continue
+5,X,1,1,Continue
+6,O,1,2,Continue
+7,X,0,0,X wins!
+1,X,2,0,Continue
+2,O,2,1,Continue
+3,X,1,1,Continue
+4,O,0,2,Continue
+5,X,2,2,Continue
+6,O,0,1,Continue
+7,X,1,2,Continue
+8,O,0,0,O wins!
+1,X,1,1,Continue
+2,O,1,2,Continue
+3,X,2,2,Continue
+4,O,0,2,Continue
+5,X,0,0,X wins!
+1,X,0,0,Continue
+2,O,2,0,Continue
+3,X,1,0,Continue
+4,O,1,2,Continue
+5,X,0,2,Continue
+6,O,2,1,Continue
+7,X,1,1,Continue
+8,O,0,1,Continue
+9,X,2,2,X wins!
+1,X,1,1,Continue
+2,O,2,1,Continue
+3,X,2,0,Continue
+4,O,1,0,Continue
+5,X,2,2,Continue
+6,O,0,1,Continue
+7,X,0,2,X wins!
+1,X,2,1,Continue
+2,O,1,1,Continue
+3,X,1,2,Continue
+4,O,2,0,Continue
+5,X,0,0,Continue
+6,O,0,1,Continue
+7,X,0,2,Continue
+8,O,1,0,Continue
+9,X,2,2,X wins!
+1,X,2,2,Continue
+2,O,1,2,Continue
+3,X,2,0,Continue
+4,O,0,2,Continue
+5,X,0,1,Continue
+6,O,1,1,Continue
+7,X,1,0,Continue
+8,O,2,1,Continue
+9,X,0,0,X wins!
+1,X,0,0,Continue
+2,O,1,0,Continue
+3,X,2,1,Continue
+4,O,1,1,Continue
+5,X,2,2,Continue
+6,O,0,1,Continue
+7,X,1,2,Continue
+8,O,0,2,Continue
+9,X,2,0,X wins!
+1,X,1,0,Continue
+2,O,0,0,Continue
+3,X,2,0,Continue
+4,O,1,2,Continue
+5,X,0,1,Continue
+6,O,0,2,Continue
+7,X,1,1,Continue
+8,O,2,2,O wins!
+1,X,2,0,Continue
+2,O,1,2,Continue
+3,X,1,1,Continue
+4,O,0,0,Continue
+5,X,1,0,Continue
+6,O,0,2,Continue
+7,X,2,2,Continue
+8,O,0,1,O wins!
+1,X,2,2,Continue
+2,O,1,1,Continue
+3,X,1,2,Continue
+4,O,2,1,Continue
+5,X,0,0,Continue
+6,O,2,0,Continue
+7,X,0,1,Continue
+8,O,0,2,O wins!
+1,X,1,1,Continue
+2,O,0,1,Continue
+3,X,2,2,Continue
+4,O,1,0,Continue
+5,X,2,0,Continue
+6,O,0,2,Continue
+7,X,1,2,Continue
+8,O,2,1,Continue
+9,X,0,0,X wins!
+1,X,0,0,Continue
+2,O,0,1,Continue
+3,X,1,0,Continue
+4,O,0,2,Continue
+5,X,2,1,Continue
+6,O,2,0,Continue
+7,X,1,2,Continue
+8,O,1,1,O wins!
+1,X,2,1,Continue
+2,O,2,0,Continue
+3,X,2,2,Continue
+4,O,0,0,Continue
+5,X,1,0,Continue
+6,O,1,1,Continue
+7,X,0,2,Continue
+8,O,0,1,Continue
+9,X,1,2,X wins!
+1,X,0,0,Continue
+2,O,1,1,Continue
+3,X,0,2,Continue
+4,O,2,1,Continue
+5,X,1,2,Continue
+6,O,1,0,Continue
+7,X,2,2,X wins!
+1,X,1,1,Continue
+2,O,1,0,Continue
+3,X,0,0,Continue
+4,O,0,2,Continue
+5,X,2,1,Continue
+6,O,2,0,Continue
+7,X,0,1,X wins!
+1,X,2,1,Continue
+2,O,1,2,Continue
+3,X,0,1,Continue
+4,O,1,1,Continue
+5,X,0,2,Continue
+6,O,1,0,O wins!
+1,X,2,0,Continue
+2,O,1,2,Continue
+3,X,0,1,Continue
+4,O,0,0,Continue
+5,X,2,2,Continue
+6,O,1,0,Continue
+7,X,1,1,Continue
+8,O,0,2,Continue
+9,X,2,1,X wins!
+1,X,0,0,Continue
+2,O,1,2,Continue
+3,X,1,1,Continue
+4,O,0,2,Continue
+5,X,1,0,Continue
+6,O,2,2,O wins!
+1,X,1,1,Continue
+2,O,2,2,Continue
+3,X,2,1,Continue
+4,O,0,1,Continue
+5,X,0,2,Continue
+6,O,0,0,Continue
+7,X,1,2,Continue
+8,O,2,0,Continue
+9,X,1,0,X wins!
+1,X,2,0,Continue
+2,O,2,2,Continue
+3,X,0,1,Continue
+4,O,1,1,Continue
+5,X,2,1,Continue
+6,O,0,0,O wins!
+1,X,1,1,Continue
+2,O,0,1,Continue
+3,X,2,0,Continue
+4,O,0,0,Continue
+5,X,2,1,Continue
+6,O,1,0,Continue
+7,X,1,2,Continue
+8,O,0,2,O wins!
+1,X,1,1,Continue
+2,O,2,1,Continue
+3,X,2,2,Continue
+4,O,0,1,Continue
+5,X,1,0,Continue
+6,O,0,0,Continue
+7,X,0,2,Continue
+8,O,1,2,Continue
+9,X,2,0,X wins!
+1,X,0,0,Continue
+2,O,0,1,Continue
+3,X,0,2,Continue
+4,O,2,2,Continue
+5,X,1,2,Continue
+6,O,2,0,Continue
+7,X,1,1,Continue
+8,O,1,0,Continue
+9,X,2,1,Draw
+1,X,0,1,Continue
+2,O,0,2,Continue
+3,X,1,2,Continue
+4,O,2,2,Continue
+5,X,2,1,Continue
+6,O,1,1,Continue
+7,X,0,0,Continue
+8,O,2,0,O wins!
+1,X,1,1,Continue
+2,O,0,0,Continue
+3,X,1,2,Continue
+4,O,2,1,Continue
+5,X,1,0,X wins!
+1,X,2,0,Continue
+2,O,0,1,Continue
+3,X,1,0,Continue
+4,O,2,1,Continue
+5,X,2,2,Continue
+6,O,1,2,Continue
+7,X,0,0,X wins!
+1,X,1,2,Continue
+2,O,1,1,Continue
+3,X,2,0,Continue
+4,O,0,0,Continue
+5,X,0,1,Continue
+6,O,2,1,Continue
+7,X,1,0,Continue
+8,O,2,2,O wins!
+1,X,0,0,Continue
+2,O,2,2,Continue
+3,X,2,0,Continue
+4,O,0,2,Continue
+5,X,1,0,X wins!
+1,X,0,0,Continue
+2,O,0,2,Continue
+3,X,2,2,Continue
+4,O,1,0,Continue
+5,X,2,0,Continue
+6,O,2,1,Continue
+7,X,1,2,Continue
+8,O,1,1,Continue
+9,X,0,1,Draw
+1,X,1,1,Continue
+2,O,0,1,Continue
+3,X,2,2,Continue
+4,O,0,2,Continue
+5,X,1,2,Continue
+6,O,2,1,Continue
+7,X,1,0,X wins!
+1,X,2,1,Continue
+2,O,1,0,Continue
+3,X,2,2,Continue
+4,O,0,1,Continue
+5,X,1,1,Continue
+6,O,0,0,Continue
+7,X,1,2,Continue
+8,O,2,0,O wins!
+1,X,2,2,Continue
+2,O,1,1,Continue
+3,X,0,1,Continue
+4,O,0,2,Continue
+5,X,0,0,Continue
+6,O,1,2,Continue
+7,X,1,0,Continue
+8,O,2,1,Continue
+9,X,2,0,X wins!
+1,X,0,0,Continue
+2,O,2,0,Continue
+3,X,1,1,Continue
+4,O,2,2,Continue
+5,X,0,1,Continue
+6,O,0,2,Continue
+7,X,2,1,X wins!
+1,X,1,2,Continue
+2,O,0,2,Continue
+3,X,2,1,Continue
+4,O,0,1,Continue
+5,X,1,0,Continue
+6,O,1,1,Continue
+7,X,2,2,Continue
+8,O,2,0,O wins!
